@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'Arial', sans-serif;
+}
+.blue-text{
+    color: #31a4d4;
+}
+#upload-resume {
+    background-color: #6cc26f;
+    color: white;
+}
