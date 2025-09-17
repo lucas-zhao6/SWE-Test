@@ -7,6 +7,12 @@ int main() {
     printf("l\n");
     printf("o\n");
     printf("o\n"); 
+    printf(" \n");
+    printf("W\n");
+    printf("o\n");
+    printf("r\n");
+    printf("l\n");
+    printf("d\n");
     printf("!\n");
     return 0;
 }
