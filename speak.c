@@ -8,11 +8,11 @@ int main() {
     printf("o\n");
     printf("o\n"); 
     printf(" \n");
-    printf("W\n");
-    printf("o\n");
+    printf("t\n");
+    printf("h\n");
+    printf("e\n");
     printf("r\n");
-    printf("l\n");
-    printf("d\n");
+    printf("e\n");
     printf("!\n");
     return 0;
 }
