@@ -8,3 +8,7 @@ h1 {
     background-color: #6cc26f;
     color: white;
 }
+
+.b { font-weight: bold; }
+.i { font-style: italic; }
+.u { text-decoration: underline; }
